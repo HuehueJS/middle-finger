@@ -1,0 +1,42 @@
+﻿{
+    "appName": {
+        "message": "MiddleFinger",
+        "description": "The title of the application, displayed in the web store."
+    },
+    "appDesc": {
+        "message": "Replaces all images on all pages to Nicolas Cage.",
+        "description": "The description of the application, displayed in the web store."
+    },
+    "optionsHeader": {
+        "message": "MiddleFinger Options",
+        "description": "Title of Options page"
+    },
+    "optionsPageActivate": {
+        "message": "MiddleFinger is",
+        "description": "Text shown next to On/Off-button"
+    },
+    "optionsPageContextLink": {
+        "message": "Show \"MiddleFinger Inactivate\" on right-click",
+        "description": "Text shown next to On/Off-button"
+    },
+    "optionsPageContextLinkActivate": {
+        "message": "Show \"MiddleFinger Activate\" on right-click",
+        "description": "Text shown next to On/Off-button"
+    },
+       
+    "contextMenuInactivate": {
+        "message": "MiddleFinger Inactivate",
+        "description": "The option in context menu to inactivate the extension"
+    }, 
+    "contextMenuActivate": {
+        "message": "MiddleFinger Activate",
+        "description": "The option in context menu to activate the extension"
+    }, 
+    "openOptionsInfo": {
+        "message": "Open options again by using right-click or by clicking MiddleFinger 'Options' under ",
+        "description": "The option in context menu to activate the extension"
+    }
+    
+    
+}
+
